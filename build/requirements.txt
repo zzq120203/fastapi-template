@@ -1,0 +1,7 @@
+uvicorn
+loguru
+pydantic_settings
+aiosqlite
+
+pydantic_extra_types
+phonenumbers
